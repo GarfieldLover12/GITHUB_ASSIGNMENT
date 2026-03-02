@@ -11,6 +11,6 @@ int main(void) {
     scanf("%d %d", &first, &second);
     third = first + second;
     printf("here is the avrage", third/2);
-    
+    //this is a push/change
     return 0;
 }
